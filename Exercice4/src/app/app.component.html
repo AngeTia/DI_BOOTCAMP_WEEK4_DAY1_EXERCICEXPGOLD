@@ -1,0 +1,6 @@
+<!-- Display current date -->
+<p> Date: {{ dateCurrent | date: 'd MMM, y, h:mm:ss a' }} </p>
+
+<p> {{ (users$ | async ).title }} </p>
+
+<router-outlet></router-outlet>

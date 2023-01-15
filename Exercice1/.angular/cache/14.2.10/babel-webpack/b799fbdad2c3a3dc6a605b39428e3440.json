@@ -1,0 +1,1 @@
+{"ast":null,"code":"export function noop() {}","map":{"version":3,"names":["noop"],"sources":["/media/malack/D/Devlabs/DI-Bootcamp/Week4/Day1/EXERCICEXPGOLD/Exercice1/node_modules/rxjs/dist/esm/internal/util/noop.js"],"sourcesContent":["export function noop() { }\n"],"mappings":"AAAA,OAAO,SAASA,IAAT,GAAgB,CAAG"},"metadata":{},"sourceType":"module"}
